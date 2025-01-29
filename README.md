@@ -1,5 +1,7 @@
 # Mastering Python design patterns
 
+<img src="https://m.media-amazon.com/images/I/81zy6BPd0YL.jpg" alt="description" width="200" height="auto">
+
 _GitHub_ - [https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Third-Edition)
 
 <hr>
