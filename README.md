@@ -49,3 +49,9 @@ _GitHub_ - [https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-
 - The [memento design pattern](./chap05/memento.ipynb)
 - The [iterator design pattern](./chap05/iterator.ipynb)
 - The [template design pattern](./chap05/template.ipynb)
+
+# Chapter 06: Architectural Design Patterns
+
+- The [MVC design pattern](./chap06/mvc.ipynb)
+- The [Microservices design pattern _(using gRPC)_](./chap06/microservices.ipynb)
+- The [Event-sourcing design pattern](./chap06/event_sourcing.ipynb)
