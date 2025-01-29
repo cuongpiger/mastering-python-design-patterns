@@ -6,6 +6,13 @@ _GitHub_ - [https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-
 
 <hr>
 
+# Chapter 01: Foundational Design Principles
+
+- [Encapsulation](./chap01/base.ipynb)
+- [Composition](./chap01/base.ipynb)
+- [Interfaces, Not Implementations](./chap01/base.ipynb)
+- [Loose Coupling](./chap01/base.ipynb)
+
 # Chapter 02: SOLID Principles
 
 - [Single responsibility principle (SRP)](./chap02/base.ipynb)
