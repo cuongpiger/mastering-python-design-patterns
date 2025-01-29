@@ -28,3 +28,15 @@ _GitHub_ - [https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-
 - The [facade design pattern](./chap04/facade.ipynb)
 - The [flyweight design pattern](./chap04/flyweight.ipynb)
 - The [proxy design pattern](./chap04/proxy.ipynb)
+
+# Chapter 05: Behavioral Design Patterns
+
+- The [chain of responsibility design pattern](./chap05/chain.ipynb)
+- The [command design pattern](./chap05/commands.ipynb)
+- The [observer design pattern](./chap05/observer.ipynb)
+- The [state design pattern](./chap05/state.ipynb)
+- The [interpreter design pattern](./chap05/interpreter.ipynb)
+- The [strategy design pattern](./chap05/strategy.ipynb)
+- The [memento design pattern](./chap05/memento.ipynb)
+- The [iterator design pattern](./chap05/iterator.ipynb)
+- The [template design pattern](./chap05/template.ipynb)
