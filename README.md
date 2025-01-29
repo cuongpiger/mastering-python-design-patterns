@@ -55,3 +55,10 @@ _GitHub_ - [https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-
 - The [MVC design pattern](./chap06/mvc.ipynb)
 - The [Microservices design pattern _(using gRPC)_](./chap06/microservices.ipynb)
 - The [Event-sourcing design pattern](./chap06/event_sourcing.ipynb)
+
+# Chapter 07: Concurrency and Asynchronous Patterns
+
+- The [thread pool pattern](./chap07/thread_pool.ipynb)
+- The [worker model pattern](./chap07/worker_model.ipynb)
+- The [future and promise pattern](./chap07/future_and_promise.ipynb)
+- The [observer pattern with `reactivex` package](./chap07/rx_peoplelist.py)
