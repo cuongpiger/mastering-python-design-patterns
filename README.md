@@ -68,3 +68,9 @@ _GitHub_ - [https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-
 - The [Cache-Aside pattern](./chap08/cache.ipynb)
 - The [Memoization pattern](./chap08/memoization.ipynb)
 - The [Lazy Loading pattern](./chap08/lazy.ipynb)
+
+# Chapter 09: Distributed Systems Patterns
+
+- The [Throttling pattern](./chap09/throttling.py)
+- The [Retry pattern](./chap09/retry)
+- The [Circuit Breaker pattern](./chap09/circuit.ipynb)
