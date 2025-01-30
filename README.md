@@ -62,3 +62,9 @@ _GitHub_ - [https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-
 - The [worker model pattern](./chap07/worker_model.ipynb)
 - The [future and promise pattern](./chap07/future_and_promise.ipynb)
 - The [observer pattern with `reactivex` package](./chap07/rx_peoplelist.py)
+
+# Chapter 08: Performance Patterns
+
+- The [Cache-Aside pattern](./chap08/cache.ipynb)
+- The [Memoization pattern](./chap08/memoization.ipynb)
+- The [Lazy Loading pattern](./chap08/lazy.ipynb)
